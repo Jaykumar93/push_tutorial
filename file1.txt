@@ -1,3 +1,3 @@
-This is my first line for the push command.
+
 
 Changes are made to see if i can see the same file twice after pushing it to the github repo
